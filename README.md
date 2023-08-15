@@ -18,7 +18,6 @@
 - 🔭 I’m currently 4X Microsoft Certified.
 - 🌱 I've 9+ years of professional experience with expertise on building highly available and scalable data pipeline for datalake,datawarehouse..
 - 👯 I’m looking to collaborate on Data Engineering, Machine Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork.
 - 💬 Currently learning Scalable Large Scale System Design.
 - 💬 Ask me about Big Data Technology, Cloud Technology and Machine Learning, Databricks and Microsoft Certification Guidance.
 - 📫 I am also a technical writer at Medium 
