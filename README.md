@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D79921&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+I'm+Sourav+Banerjee+%F0%9F%91%8B;Cloud+Data+Engineer+%7C+ML+Engineer+%7C+Solution+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D79921&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+I'm+Sourav+Banerjee+%F0%9F%91%8B;Cloud+Data+Engineer+%7C+GenAI+Engineer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-banerjee-50b443106/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourav692@gmail.com)
