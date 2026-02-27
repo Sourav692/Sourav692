@@ -14,7 +14,7 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working as Senior Solution Consultant.
+- 🔭 I’m currently working as Resident Solution Architect..
 - 🔭 I’m currently 4X Microsoft Certified.
 - 🌱 I've 9+ years of professional experience with expertise on building highly available and scalable data pipeline for datalake,datawarehouse..
 - 👯 I’m looking to collaborate on Data Engineering, Machine Learning Projects
